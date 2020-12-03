@@ -6,14 +6,14 @@ var dog,dogImage,dogImage1,food,foodImage,foodStock,foodRef;
 function preload()
 {
   //load images here
-  backgroundImg = loadImage("images/bg.png");
-  dogImage = loadImage("images/Dog.png");
-  dogImage1 = loadImage("images/happydog.png");
-  foodImage = loadImage("images/Bone.png");
-  bathImage = loadImage("images/bath.png");
-  sleepImage = loadImage("images/sleep.png");
-  playImage = loadImage("images/play.png");
-  walkImage = loadImage("images/walk.png");
+  backgroundImg = loadImage("bg.png");
+  dogImage = loadImage("Dog.png");
+  dogImage1 = loadImage("happydog.png");
+  foodImage = loadImage("Bone.png");
+  bathImage = loadImage("bath.png");
+  sleepImage = loadImage("sleep.png");
+  playImage = loadImage("play.png");
+  walkImage = loadImage("walk.png");
   
 
 }
